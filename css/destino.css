@@ -1,0 +1,28 @@
+.navbar .nav-item {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.navbar .nav-item .nav-link {
+  font-size: 35px;
+  margin: 5px 5px;
+  padding: 0;
+  line-height: 80%;
+  transition: all 0.5s ease-in-out;
+}
+.navbar .nav-item .nav-link:hover {
+  color: #43b5a0;
+}
+.navbar .main-btn:hover {
+  background-color: white;
+  transition: all 0.9s ease-in-out;
+}
+
+.about {
+  padding: 100px 0px;
+}
+.about .about-box {
+  text-align: center;
+  padding: 0 40px;
+}
+
+/*# sourceMappingURL=destino.css.map */
